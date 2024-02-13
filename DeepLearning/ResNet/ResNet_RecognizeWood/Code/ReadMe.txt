@@ -1,0 +1,1 @@
+Run GetFold->GenerateData->TrainNetWork->PredictEvalute
